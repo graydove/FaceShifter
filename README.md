@@ -1,4 +1,4 @@
-# A experimental demo of  FaceShifter
+# FaceShifter
 
 ## Most of codes are referenced from [Research_Project](https://github.com/richarduuz/Research_Project) and  [FaceShifter](https://github.com/taotaonice/FaceShifter). Thank these authors.
 
