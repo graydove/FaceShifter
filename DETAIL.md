@@ -1,4 +1,4 @@
-# Model C - FaceShifer
+# FaceShifer
 
 This is the reproducing version of FaceShiter
 
