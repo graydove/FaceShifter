@@ -4,7 +4,7 @@
 
 
 ## Project Objective
-Our project aims to find a suitable DeepFake model, in terms of visual quality, inferencing speed and easiness of deploying, to deploy on as Android demo application server. We have uploaded and referenced code of all 3 potential models we selected in addition with our Android application package and server.
+Our project aims to find a suitable DeepFake model, in terms of visual quality, inferencing speed and easiness of deploying, to deploy on as Android demo application server. We have uploaded and referenced code of all 3 potential models we selected in addition with our Android application packages and servers.
 
 ## Code Reference
 In this repo, there are 3 models we referenced from 3 authors.
